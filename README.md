@@ -1,5 +1,5 @@
 # Animated Text Generator
-[Animated text generator](https://jungjiwoo1028.github.io/animationText/) made using Giphy API and React.
+[Animated text generator](https://jungjiwoo1028.github.io/AnimationText/) made using Giphy API and React.
 
 ## Skills
 - Html, Css, React and Giphy API
